@@ -1,0 +1,39 @@
+﻿body {
+width: 900px;
+margin-left: auto;
+margin-right: auto;
+}
+h1
+{
+    text-align: center;
+}
+#container {
+    float: right;
+    width: 600px;
+    margin-right: 5%;
+    margin-top: 20px;
+    height: 19px;
+    margin-bottom: 1px;
+}
+nav
+{
+    padding-bottom: 20px;
+}
+#TreeView1
+{
+    margin-top: 20px;
+}
+#Menu1 li
+{
+    margin-right: 20px;
+}
+#left
+{
+width: 400px;
+float: left;
+}
+#right
+{
+width: 200px;
+float: right;
+}

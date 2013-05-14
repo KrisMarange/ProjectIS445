@@ -1,0 +1,43 @@
+﻿article
+{
+text-align: center;
+background-color: #FDD017;
+width: 400px;
+float: left;
+padding-bottom: 10px;
+}
+
+section
+{
+background-color: orange;
+border-bottom: 15px solid #FDD017;
+width: 400px;
+padding-bottom: 50px;
+padding-top: 15px;
+
+}
+
+aside
+{
+background-color: red;
+text-align: center;
+width: 200px;
+float: right;
+padding-bottom: 200px;
+}
+
+footer
+{
+width: 600px;
+text-align: center;
+background-color: #6C2DC7;
+padding-bottom: 15px;
+
+}
+#container {
+    float: right;
+    width: 600px;
+    margin-right: 5%;
+    margin-top: 20px;
+    height: 19px;
+}
